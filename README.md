@@ -1,4 +1,4 @@
-# Rerun
+# RErun
 A small experiment in reconstructing what happened during an agent run from the traces it leaves behind.
 ## What I’m trying to understand
 An agent does something.
